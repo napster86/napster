@@ -61,6 +61,6 @@
   <br>
   <p align="left">
     <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=napster86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=napster86&layout=compact&langs_count=2&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=napster86&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
 </details>
